@@ -13,8 +13,7 @@
 
 ### 💻 About Me
 
-- 🛠️ **Built:** * [dueclock.in](https://dueclock.in) 
-  * [aomi.space](https://aomi.space)
+- 🛠️ **Built:** * [dueclock.in](https://dueclock.in)&emsp;&&emsp;[aomi.space](https://aomi.space)
 - 🌱 **Deep Diving Into:** RAG, Vector Databases, MCP (Model Context Protocol), and PostgreSQL optimization.
 - 💬 **Ask Me About:** React, Next.js, Express, and building scalable SaaS products.
 - 👨‍💻 **Portfolio:** Discover all my projects at [venkatnithin.space](https://venkatnithin.space)
